@@ -1,7 +1,7 @@
 # Project 2
 
 ## Description
-This project involves training machine learning models on a dataset to perform classification tasks. It includes preprocessing of data, dimensionality reduction, model training, hyperparameter tuning, and evaluation. The primary focus is on SVM and Random Forest classifiers.
+This project involves training machine learning models on a dataset to perform classification tasks. It includes preprocessing of data, dimensionality reduction, model training, hyperparameter tuning, and evaluation. The primary focus is on SVM and Random Forest classifiers as stated per the requirements of this course project. However, it would be ideal to perform this task with convoluted neural networks.
 
 ## Getting Started
 
